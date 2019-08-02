@@ -1,4 +1,5 @@
-# spotifySearch
+# triggerSpotifySearchMac
+
 Kick off a Spotify Search with Selected Text on Mac 
 
 I got tired of copy-pasting artist names to Spotify and do a search to find their albums, so I created this Automator workflow.
