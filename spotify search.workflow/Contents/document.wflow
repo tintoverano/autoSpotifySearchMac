@@ -1,0 +1,1606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AMApplicationBuild</key>
+	<string>488</string>
+	<key>AMApplicationVersion</key>
+	<string>2.10</string>
+	<key>AMDocumentVersion</key>
+	<string>2</string>
+	<key>actions</key>
+	<array>
+		<dict>
+			<key>action</key>
+			<dict>
+				<key>AMAccepts</key>
+				<dict>
+					<key>Container</key>
+					<string>List</string>
+					<key>Optional</key>
+					<true/>
+					<key>Types</key>
+					<array>
+						<string>*</string>
+					</array>
+				</dict>
+				<key>AMActionVersion</key>
+				<string>1.0.2</string>
+				<key>AMApplication</key>
+				<array>
+					<string>Automator</string>
+				</array>
+				<key>AMParameterProperties</key>
+				<dict>
+					<key>playbackSpeed</key>
+					<dict/>
+					<key>playbackSpeed_MAX</key>
+					<dict/>
+					<key>playbackSpeed_MIN</key>
+					<dict/>
+					<key>timeoutCount</key>
+					<dict/>
+					<key>timeoutCount_MAX</key>
+					<dict/>
+					<key>timeoutCount_MIN</key>
+					<dict/>
+					<key>timeoutIsError</key>
+					<dict/>
+					<key>timeoutPerEvent</key>
+					<dict/>
+					<key>userEvents</key>
+					<dict/>
+				</dict>
+				<key>AMProvides</key>
+				<dict>
+					<key>Container</key>
+					<string>List</string>
+					<key>Types</key>
+					<array>
+						<string>*</string>
+					</array>
+				</dict>
+				<key>AMRequiredResources</key>
+				<array/>
+				<key>ActionBundlePath</key>
+				<string>/System/Library/Automator/Watch Me Do.action</string>
+				<key>ActionName</key>
+				<string>Watch Me Do</string>
+				<key>ActionNameComment</key>
+				<string>copy in feedly</string>
+				<key>ActionParameters</key>
+				<dict>
+					<key>playbackSpeed</key>
+					<real>0.0</real>
+					<key>playbackSpeed_MAX</key>
+					<real>1</real>
+					<key>playbackSpeed_MIN</key>
+					<real>-1</real>
+					<key>timeoutCount</key>
+					<real>2</real>
+					<key>timeoutCount_MAX</key>
+					<real>1000</real>
+					<key>timeoutCount_MIN</key>
+					<real>0.0</real>
+					<key>timeoutIsError</key>
+					<true/>
+					<key>timeoutPerEvent</key>
+					<true/>
+					<key>userEvents</key>
+					<data>
+					YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25Z
+					JGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGG
+					oF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290
+					gAGvEBwLDBIiIyQlJicoLjI9Pj9AQUVMT1RX
+					YWRnb3J1VSRudWxs0g0ODxFaTlMub2JqZWN0
+					c1YkY2xhc3OhEIACgBrYEw4UFRYXGBkaGxwd
+					Hh8gIVh1aUV2ZW50c18QEXNjcmVlbkNhcHR1
+					cmVEYXRhV3RpbWVvdXRVZGVsYXlbcHJvY2Vz
+					c05hbWVfEA91c2VyRGVzY3JpcHRpb25aYWN0
+					aW9uTmFtZYAJgBuAA4AIgAeABYAGgARPEShG
+					TU0AKgAAJMgAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAQAAAAEAAAACAAAAAgAAAAIAAAACAAAA
+					AwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAA
+					AAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMA
+					AAADAAAAAwAAAAMAAAACAAAAAgAAAAIAAAAB
+					AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA
+					AAACAAAAAwAAAAUAAAAFAAAABwAAAAcAAAAI
+					AAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAAA
+					CAAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAA
+					AAgAAAAIAAAACAAAAAgAAAAHAAAABwAAAAUA
+					AAAFAAAAAwAAAAIAAAABAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAwAA
+					AAQAAAAIAAAACwAAAA4yMjIfU1NTTVJSUk5S
+					UlJPUlJST1JSUk9SUlJPUlJST1JSUk9SUlJP
+					UlJST1JSUk9SUlJPUlJST1JSUk9SUlJPUlJS
+					T1JSUk9SUlJPUlJST1JSUk9SUlJOU1NTTTIy
+					Mh8AAAAOAAAACwAAAAgAAAAEAAAAAgAAAAEA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAEAAAA
+					BgAAAAsAAAARdHR0bKKioNOxsa7/wsK//8LC
+					v//Cwr//wsK//8LCv//Cwr//wsK//8LCv//C
+					wr//wsK//8LCv//Cwr//wsK//8LCv//Cwr//
+					wsK//8LCv//Cwr//wsK//8LCv//Cwr//wsK/
+					/7Gxrv+ioqDTdXV0bAAAABAAAAAKAAAABQAA
+					AAMAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAgAAAAQAAAAI
+					AAAADS0tLSOkpKLTxcXB/8XFwf/ExMH/xMTB
+					/8TEwP/Dw8D/w8PA/8PDwP/Dw8D/w8PA/8PD
+					wP/Dw8D/w8PA/8PDwP/Dw8D/w8PA/8PDwP/D
+					w8D/w8PA/8PDwP/Dw8D/w8PA/8PDwP/ExMD/
+					xMTB/8TEwf/FxcH/xcXB/6SkotMvLy8iAAAA
+					DAAAAAYAAAADAAAAAQAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAABAAAAAwAAAAcA
+					AAAOKioqJq6urNTKysb/ysrG/8nJxv/JycX/
+					yMjE/8fHxP/Hx8P/xsbC/8bGwv/GxsL/xsbC
+					/8bGwv/GxsL/xsbC/8bGwv/GxsL/xsbC/8bG
+					wv/GxsL/xsbC/8bGwv/GxsL/xsbC/8fHw//H
+					x8T/yMjE/8nJxf/Jycb/ysrG/8rKxv+vr6zU
+					Li4uIwAAAAwAAAAGAAAAAgAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAACAAAABQAA
+					AAwAAAAXmpqYq9HRzf/R0c3/0NDM/8/Py//P
+					z8v/zc3J/8zMyP/Kysb/ycnF/8nJxf/IyMT/
+					yMjE/8jIxP/IyMT/yMjE/8jIxP/IyMT/yMjE
+					/8jIxP/IyMT/yMjE/8jIxP/JycX/ycnF/8rK
+					xv/Ly8f/zc3J/87Oyv/Pz8v/0NDM/9HRzf/R
+					0c3/nJyaqQAAABMAAAAKAAAABAAAAAIAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAA
+					CQAAABQ1NTU9zMzH/9ra1f/a2tT/2dnU/9jY
+					0//W1tH/09PO/9zc2P/s7On/9fXy/////f//
+					//3////9/////v////7////+/////v////7/
+					///+/////v////7////9/////f////3/8vLv
+					/+zs6f/c3Nf/09PO/9XV0P/X19L/2dnT/9ra
+					1P/a2tX/zMzH/zg4ODkAAAARAAAACAAAAAMA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAF
+					AAAADgAAAByCgn+G5eXf/+Xl3//k5N7/4+Pc
+					/+Hh2//e3tj/7u7q//j49f/u7ur/6enl/+jo
+					4//m5uL/5eXh/+Tk4P/j49//4uLe/+Li3v/i
+					4t7/4uLe/+Pj3//k5OD/5eXh/+fn4v/o6OT/
+					6enl/+/v6//4+PT/7u7p/93d1//g4Nr/4+Pc
+					/+Tk3v/l5d//5eXf/4SEgoQAAAAYAAAADAAA
+					AAQAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAIA
+					AAAIAAAAEwAAACOtram+7u7n/+7u5//t7eb/
+					6+vk/+fn4f/x8ev/8fHt/+zs5//q6ub/6Ojk
+					/+fn4v/l5eH/5OTg/+Pj3v/h4d3/4ODc/+Dg
+					3P/g4Nz/4eHc/+Li3f/j49//5OTg/+bm4f/n
+					5+P/6enk/+rq5v/s7Of/8vLu//Dw6//n5+D/
+					6urj/+zs5f/u7uf/7u7n/6+vq70AAAAeAAAA
+					DwAAAAYAAAABAAAAAAAAAAAAAAAAAAAAAAAA
+					AAMAAAAJAAAAFwAAACiysq7N7e3m/+3t5v/r
+					6+T/6Oji/+jo4v/09PD/7e3o/+vr5//q6uX/
+					6Ojk/+bm4v/l5eD/4+Pf/+Hh3f/g4Nz/39/b
+					/97e2v/e3tr/39/b/+Dg3P/i4t7/4+Pf/+Xl
+					4f/n5+L/6Ojk/+rq5f/r6+f/7e3p//X18f/n
+					5+H/6Ojh/+rq5P/s7Ob/7e3m/7S0sMsAAAAj
+					AAAAEgAAAAgAAAACAAAAAAAAAAAAAAAAAAAA
+					AQAAAAMAAAALAAAAGgAAAC2wsKzO6+vl/+rq
+					5P/o6OL/5eXe/+vr5v/u7ur/7e3o/+vr5//p
+					6eX/6Ojj/+bm4f/k5OD/4uLe/+Hh3f/f39v/
+					3t7a/93d2f/d3dn/3t7a/9/f2//h4d3/4+Pe
+					/+Tk4P/m5uL/6Ojj/+rq5f/r6+f/7e3o/+/v
+					6v/r6+b/5OTe/+jo4f/q6uP/6+vl/7KyrswA
+					AAAmAAAAFAAAAAkAAAACAAAAAAAAAAAAAAAA
+					AAAAAQAAAAQAAAAMAAAAHAAAADCurqrP6enj
+					/+jo4v/m5t//4uLb/+3t6P/u7ur/7e3o/+vr
+					5//p6eX/5+fj/+bm4f/k5OD/4uLe/+Hh3P/f
+					39v/3d3Z/9vb1//c3Nj/3d3Z/9/f2//h4d3/
+					4+Pe/+Tk4P/m5uL/6Ojj/+np5f/r6+f/7e3o
+					/+/v6v/t7en/4eHb/+Xl3//o6OH/6enj/7Cw
+					rM0AAAAnAAAAFQAAAAkAAAACAAAAAAAAAAAA
+					AAAAAAAAAQAAAAQAAAANAAAAHQAAADKsrKjQ
+					5+fh/+bm4P/j493/39/Z/+vr5v/u7ur/7e3o
+					/+vr5//p6eX/5+fj/+bm4f/k5OD/4uLe/+Hh
+					3f/f39v/3t7Z/9zc2P/c3Nj/3t7a/9/f2//h
+					4d3/4+Pe/+Tk4P/m5uL/6Ojj/+np5f/r6+f/
+					7e3o/+/v6v/r6+b/39/Z/+Pj3f/l5d//5+fh
+					/66uq80AAAAoAAAAFgAAAAoAAAADAAAAAAAA
+					AAAAAAAAAAAAAQAAAAUAAAAOAAAAHgAAADOr
+					q6fQ5eXf/+Tk3v/h4dv/3d3X/+vr5v/v7+r/
+					7e3o/+vr5//p6eX/6Ojj/+bm4v/l5eD/4+Pf
+					/+Hh3f/g4Nz/39/b/97e2v/e3tr/39/b/+Dg
+					3P/i4t3/4+Pf/+Xl4f/m5uL/6Ojk/+rq5f/r
+					6+f/7e3p/+/v6v/r6+b/3d3X/+Hh2//j493/
+					5eXf/62tqc0AAAApAAAAFgAAAAoAAAADAAAA
+					AAAAAAAAAAAAAAAAAQAAAAUAAAAOAAAAHwAA
+					ADSpqabQ4+Pd/+Li3P/f39n/29vV/+rq5f/v
+					7+r/7e3p/+zs5//q6uX/6Ojk/+fn4v/l5eH/
+					5OTf/+Li3v/h4d3/4ODc/+Dg2//g4Nz/4ODc
+					/+Hh3f/j497/5OTg/+Xl4f/n5+P/6enk/+rq
+					5v/s7Of/7u7p/+/v6//q6ub/29vV/9/f2f/h
+					4dv/4+Pd/6ysqM0AAAApAAAAFgAAAAoAAAAD
+					AAAAAAAAAAAAAAAAAAAAAQAAAAUAAAAOAAAA
+					HwAAADSoqKTQ4ODb/9/f2v/d3df/2NjT/+rq
+					5f/v7+v/7u7p/+zs6P/r6+b/6enl/+jo4//m
+					5uL/5eXh/+Tk3//i4t7/4uLe/+Hh3f/h4d3/
+					4uLe/+Pj3v/k5OD/5eXh/+bm4v/o6OP/6enl
+					/+vr5v/s7Oj/7u7q//Dw6//q6uX/2NjT/9zc
+					1//f39n/4ODb/6qqp80AAAApAAAAFgAAAAoA
+					AAADAAAAAAAAAAAAAAAAAAAAAQAAAAUAAAAO
+					AAAAHwAAADSnp6PQ3t7Z/93d2P/b29X/1tbR
+					/+rq5f/w8Ov/7u7q/+3t6P/r6+f/6url/+jo
+					5P/n5+P/5ubi/+Xl4f/k5OD/4+Pf/+Pj3//j
+					49//4+Pf/+Tk4P/l5eH/5ubi/+fn4//p6eT/
+					6urm/+zs5//t7en/7+/q//Dw7P/q6uX/1tbR
+					/9vb1f/d3df/3t7Z/6mpps0AAAApAAAAFgAA
+					AAoAAAADAAAAAAAAAAAAAAAAAAAAAQAAAAUA
+					AAAOAAAAHwAAADSlpaLQ3NzX/9vb1v/Z2dP/
+					1NTP/+rq5f/x8ez/7+/r/+7u6f/s7Oj/6+vn
+					/+rq5f/o6OT/5+fj/+bm4v/m5uH/5eXh/+Xl
+					4f/l5eH/5eXh/+bm4f/n5+L/5+fj/+np5P/q
+					6uX/6+vn/+3t6P/u7un/8PDr//Hx7P/q6ub/
+					1NTP/9nZ0//b29X/3NzX/6iopM0AAAApAAAA
+					FgAAAAoAAAADAAAAAAAAAAAAAAAAAAAAAQAA
+					AAUAAAAOAAAAHwAAADSkpKHQ2trV/9nZ1P/X
+					19H/0tLN/+rq5f/y8u3/8PDs/+/v6v/t7en/
+					7Ozo/+vr5v/q6uX/6enk/+jo4//n5+P/5+fi
+					/+fn4v/n5+L/5+fi/+fn4//o6OT/6enk/+rq
+					5f/r6+f/7Ozo/+7u6f/v7+r/8PDs//Ly7f/q
+					6ub/0tLN/9fX0f/Z2dP/2trV/6eno80AAAAp
+					AAAAFgAAAAoAAAADAAAAAAAAAAAAAAAAAAAA
+					AQAAAAUAAAAOAAAAHwAAADSjo6DQ2NjT/9fX
+					0v/U1ND/0NDM/+rq5v/z8+7/8fHt//Dw6//v
+					7+r/7e3p/+zs6P/r6+f/6urm/+np5f/p6eT/
+					6Ojk/+jo5P/o6OT/6Ojk/+np5P/p6eX/6urm
+					/+vr5//s7Oj/7u7p/+/v6v/w8Ov/8fHt//Pz
+					7v/r6+b/0NDM/9TU0P/W1tL/2NjT/6Wlos0A
+					AAApAAAAFgAAAAoAAAADAAAAAAAAAAAAAAAA
+					AAAAAQAAAAUAAAAOAAAAHwAAADShoZ/Q1tbR
+					/9XV0P/S0s7/zs7K/+rq5v/09O//8vLu//Hx
+					7P/f39r/xMTA/+7u6f/t7ej/qKim/+Pj3/+4
+					uLb/qKil/6iopf+4uLX/wcG+/9ra1v/r6+f/
+					7Ozn/8LCv//U1ND/7+/q//Dw6//x8e3/8vLu
+					//T07//r6+b/zs7K/9LSzv/U1ND/1tbR/6Sk
+					oc0AAAApAAAAFgAAAAoAAAADAAAAAAAAAAAA
+					AAAAAAAAAQAAAAUAAAAOAAAAHwAAADSgoJ3Q
+					1NTP/9PTzv/Q0Mz/zMzI/+vr5v/19fD/8/Pv
+					//Ly7v/FxcL/q6uo/+/v6v+ZmZf/urq4/+3t
+					6P92dnb/ysrH/8rKx//b29f/sbGv/7Gxr//t
+					7ej/3NzY/39/fv/v7+v/8PDs//Hx7f/y8u7/
+					9PTv//X18P/r6+b/zMzI/9DQzP/S0s7/1NTP
+					/6KioM0AAAApAAAAFgAAAAoAAAADAAAAAAAA
+					AAAAAAAAAAAAAQAAAAUAAAAOAAAAHwAAADSf
+					n5zQ0tLN/9HRzP/Pz8r/ysrG/+vr5v/29vH/
+					9fXw//T07/+srKr/xsbC/7y8uf+ZmZj/7+/q
+					/+7u6v9/f37/7u7p/+7u6f/u7un/3d3Z/5CQ
+					j//u7ur/kJCP/83Nyv/x8ez/8fHt//Pz7v/0
+					9O//9fXw//b28f/r6+f/ysrG/87Oyv/Q0Mz/
+					0tLN/6Ghns0AAAApAAAAFgAAAAoAAAADAAAA
+					AAAAAAAAAAAAAAAAAQAAAAUAAAAOAAAAHwAA
+					ADSenpvQz8/L/87Oyv/MzMj/yMjE/+vr5//3
+					9/L/9vbx//X18P+SkpH/tbWy/4CAf//x8e3/
+					8PDs/9bW0v+IiIf/7+/r/+/v6//v7+v/7+/r
+					/39/f//Nzcr/mpqY//Hx7f/y8u3/8/Pu//T0
+					7//19fD/9vbx//f38//s7Of/yMjE/8zMyP/O
+					zsr/z8/L/6Cgnc0AAAApAAAAFgAAAAoAAAAD
+					AAAAAAAAAAAAAAAAAAAAAQAAAAUAAAAOAAAA
+					HwAAADScnJrQzc3J/8zMyP/Kysb/xsbC/+zs
+					5//4+PT/9/fy//b28f+Kioj/gIB//6ysqv/z
+					8+7/8vLu/8bGw/93d3b/iIiH/4iIh//x8ez/
+					8fHs/5qamP+AgH//6enl//Pz7v/09O//9PTw
+					//X18f/29vL/+Pjz//n59P/s7Of/xsbC/8rK
+					xv/MzMj/zc3J/56enM0AAAApAAAAFgAAAAoA
+					AAADAAAAAAAAAAAAAAAAAAAAAQAAAAUAAAAO
+					AAAAHwAAADSbm5nQy8vH/8rKxv/IyMT/xMTA
+					/+3t6P/6+vX/+fn0//j48/94eHf/5OTg/3d3
+					d//09PD/9PTv/6ysqv++vrv/8/Pu//Pz7v/z
+					8+7/8/Pu/7W1sv+trar/9PTv//T08P/19fD/
+					9vbx//f38v/4+PP/+fn0//r69f/t7ej/xMTA
+					/8jIxP/Kysb/y8vH/52dm80AAAApAAAAFgAA
+					AAoAAAADAAAAAAAAAAAAAAAAAAAAAQAAAAUA
+					AAAOAAAAHwAAADSampfQycnF/8jIxP/GxsL/
+					w8O//+3t6P/7+/b/+vr1/+fn4v+Kion/9/fy
+					/5ycmv/S0s7/9fXx/5ubmv/R0c3/9PTw//T0
+					8P/09PD/9fXw/62tq//R0c7/9vbx//b28f/3
+					9/L/9/fz//j48//5+fT/+vr1//v79v/t7en/
+					w8O//8bGwv/IyMT/ycnF/5ycmc0AAAApAAAA
+					FgAAAAoAAAADAAAAAAAAAAAAAAAAAAAAAQAA
+					AAUAAAAOAAAAHwAAADSYmJbQx8fD/8bGwv/E
+					xMH/wcG+/+Li3v/8/Pf/+/v3/9XV0v+wsK3/
+					+fn0/8rKx/+cnJr/9/fy/4qKif/29vL/9vbx
+					//b28f/29vH/9vbx/4qKif/l5eD/9/fy//j4
+					8//4+PT/+fn0//r69f/7+/b//Pz3//39+P/i
+					4t7/wcG+/8TEwf/FxcL/x8fD/5qamM0AAAAp
+					AAAAFgAAAAoAAAADAAAAAAAAAAAAAAAAAAAA
+					AQAAAAUAAAAOAAAAHwAAADSXl5XQxcXC/8TE
+					wf/Dw8D/wcG+/9LSz//+/vn//f34/8TEwf/M
+					zMn/+vr2//r69f+UlJL/+fn0/4qKif+Kion/
+					ioqJ/6+vrP/4+PP/+Pjz/52dm//4+PT/+fn0
+					//n59P/6+vX/+/v2//v79v/8/Pf//f34//7+
+					+f/S0s7/wMC9/8PDwP/ExMH/xcXC/5mZl80A
+					AAApAAAAFgAAAAoAAAADAAAAAAAAAAAAAAAA
+					AAAAAQAAAAUAAAAOAAAAHgAAADOWlpTQw8PA
+					/8PDwP/Bwb7/wMC9/76+u//y8u3//v75//39
+					+P/9/fj//Pz3//v79//7+/b/+vr2//r69f/6
+					+vX/+vr1//r69f/6+vX/+vr1//r69f/6+vX/
+					+vr2//v79v/8/Pf//Pz3//39+P/+/vn//v75
+					//Ly7f+9vbr/wMC9/8HBvv/Cwr//w8PA/5iY
+					ls0AAAApAAAAFgAAAAoAAAADAAAAAAAAAAAA
+					AAAAAAAAAQAAAAQAAAANAAAAHgAAADOTk5HE
+					ysrH/8rKx//Jycb/yMjF/8fHw//MzMn/+/v2
+					////+v/+/vn//v75//39+P/9/fj//Pz3//z8
+					9//8/Pf/+/v3//v79v/7+/b/+/v3//z89//8
+					/Pf//Pz3//39+P/9/fj//v75//7++f////r/
+					+/v2/8zMyf/GxsP/yMjF/8nJxv/Kysb/ysrH
+					/5aWlMEAAAAoAAAAFgAAAAoAAAADAAAAAAAA
+					AAAAAAAAAAAAAQAAAAQAAAAMAAAAHAAAADBv
+					b26V1tbT/9bW0//W1tP/1dXS/9TU0f/T08//
+					1NTR/+7u6v////r////6//7++f/+/vn//v75
+					//39+P/9/fj//f34//39+P/9/fj//f34//39
+					+P/+/vn//v75//7++f/+/vn////6////+v/u
+					7ur/1NTR/9PTz//U1NH/1dXS/9bW0//W1tP/
+					1tbT/3R0c48AAAAnAAAAFQAAAAkAAAACAAAA
+					AAAAAAAAAAAAAAAAAQAAAAMAAAALAAAAGgAA
+					AC0jIyNa0dHN/+Dg3P/g4Nz/4ODc/9/f2//f
+					39v/3d3Z/9zc2P/e3tr/5eXg/+Tk4P/k5OD/
+					5OTg/+Tk4P/k5OD/5OTg/+Tk4P/k5OD/5OTg
+					/+Tk4P/k5OD/5OTg/+Tk4P/k5OD/5eXg/97e
+					2v/c3Nj/3d3Z/97e2v/f39v/4ODc/+Dg3P/g
+					4Nz/0dHN/ycnJ1MAAAAlAAAAFAAAAAkAAAAC
+					AAAAAAAAAAAAAAAAAAAAAAAAAAMAAAAJAAAA
+					FgAAACgAAAA+mJiWvOjo5P/o6OT/6Ojk/+jo
+					5P/n5+P/5+fj/+fn4v/m5uL/5eXh/+Xl4f/l
+					5eH/5eXh/+Xl4f/l5eH/5eXh/+Xl4f/l5eH/
+					5eXh/+Xl4f/l5eH/5eXh/+Xl4f/l5eH/5eXh
+					/+bm4v/m5uL/5+fj/+fn4//o6OT/6Ojk/+jo
+					5P/o6OT/mpqYugAAADcAAAAiAAAAEgAAAAcA
+					AAACAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAH
+					AAAAEgAAACIAAAA1EhISVb+/vN/u7ur/7u7q
+					/+7u6v/u7ur/7u7p/+7u6f/t7en/7e3p/+3t
+					6f/t7en/7e3p/+3t6f/t7en/7e3p/+3t6f/t
+					7en/7e3p/+3t6f/t7en/7e3p/+3t6f/t7en/
+					7e3p/+3t6f/u7un/7u7p/+7u6v/u7ur/7u7q
+					/+7u6v/AwLzeFBQUUQAAADAAAAAdAAAADwAA
+					AAYAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEA
+					AAAFAAAADgAAABoAAAArAAAAPxEREVy3t7Tg
+					8vLt//Ly7f/y8u3/8vLt//Ly7f/y8u3/8vLt
+					//Ly7f/y8u3/8vLt//Ly7f/y8u3/8vLt//Ly
+					7f/y8u3/8vLt//Ly7f/y8u3/8vLt//Ly7f/y
+					8u3/8vLt//Ly7f/y8u3/8vLt//Ly7f/y8u3/
+					8vLt/7e3tOARERFbAAAAOwAAACgAAAAXAAAA
+					CwAAAAQAAAABAAAAAAAAAAAAAAAAAAAAAAAA
+					AAEAAAADAAAACQAAABMAAAAhAAAAMgAAAEMA
+					AABXXFxbm7i4tOHQ0M3/9PTv//T07//09O//
+					9PTv//T07//09O//9PTv//T07//09O//9PTv
+					//T07//09O//9PTv//T07//09O//9PTv//T0
+					7//09O//9PTv//T07//09O//9PTv/9DQzf+4
+					uLThXFxbmgAAAFUAAABDAAAALwAAAB4AAAAR
+					AAAACAAAAAMAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAABAAAABQAAAAsAAAAUAAAAIAAA
+					AC4AAABAAAAATAAAAFUAAABbMDAwhTAwMIYw
+					MDCHMDAwhzAwMIcwMDCHMDAwhzAwMIcwMDCH
+					MDAwhzAwMIcwMDCHMDAwhzAwMIcwMDCHMDAw
+					hzAwMIcwMDCHMDAwhzAwMIcwMDCGMDAwhQAA
+					AFoAAABUAAAASwAAAD8AAAAvAAAAHwAAABIA
+					AAAJAAAABAAAAAEAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAABAAAAAwAAAAYAAAAMAAAA
+					FAAAAB8AAAAtAAAANwAAAEAAAABFAAAASAAA
+					AEoAAABLAAAASwAAAEwAAABMAAAATAAAAEwA
+					AABMAAAATAAAAEwAAABMAAAATAAAAEwAAABM
+					AAAATAAAAEwAAABMAAAASwAAAEsAAABKAAAA
+					SAAAAEUAAAA/AAAANgAAACwAAAAfAAAAEwAA
+					AAsAAAAFAAAAAgAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAQAAAAMAAAAG
+					AAAACwAAABIAAAAcAAAAJAAAACoAAAAvAAAA
+					MQAAADMAAAAzAAAANAAAADQAAAA0AAAANAAA
+					ADQAAAA0AAAANAAAADQAAAA0AAAANAAAADQA
+					AAA0AAAANAAAADQAAAA0AAAANAAAADQAAAAz
+					AAAAMQAAAC4AAAApAAAAIwAAABsAAAASAAAA
+					CgAAAAYAAAADAAAAAQAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA
+					AAADAAAABQAAAAkAAAAPAAAAFAAAABgAAAAb
+					AAAAHQAAAB4AAAAeAAAAHwAAAB8AAAAfAAAA
+					HwAAAB8AAAAfAAAAHwAAAB8AAAAfAAAAHwAA
+					AB8AAAAfAAAAHwAAAB8AAAAfAAAAHwAAAB4A
+					AAAeAAAAHQAAABoAAAAXAAAAEwAAAA4AAAAJ
+					AAAABQAAAAMAAAABAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAABAAAAAgAAAAQAAAAGAAAACQAAAAsA
+					AAANAAAADgAAAA8AAAAPAAAADwAAAA8AAAAP
+					AAAADwAAAA8AAAAPAAAADwAAAA8AAAAPAAAA
+					DwAAAA8AAAAPAAAADwAAAA8AAAAPAAAADwAA
+					AA8AAAAPAAAADgAAAA0AAAALAAAACAAAAAYA
+					AAADAAAAAgAAAAEAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAEAAAACAAAAAwAA
+					AAQAAAAEAAAABQAAAAUAAAAGAAAABgAAAAYA
+					AAAGAAAABgAAAAYAAAAGAAAABgAAAAYAAAAG
+					AAAABgAAAAYAAAAGAAAABgAAAAYAAAAGAAAA
+					BgAAAAYAAAAFAAAABQAAAAQAAAADAAAAAwAA
+					AAIAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAA
+					AAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEA
+					AAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAAB
+					AAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAEAEAAAMA
+					AAABADAAAAEBAAMAAAABADEAAAECAAMAAAAE
+					AAAljgEDAAMAAAABAAEAAAEGAAMAAAABAAIA
+					AAEKAAMAAAABAAEAAAERAAQAAAABAAAACAES
+					AAMAAAABAAEAAAEVAAMAAAABAAQAAAEWAAMA
+					AAABADEAAAEXAAQAAAABAAAkwAEcAAMAAAAB
+					AAEAAAEoAAMAAAABAAIAAAFSAAMAAAABAAIA
+					AAFTAAMAAAAEAAAllodzAAcAAAKoAAAlngAA
+					AAAACAAIAAgACAABAAEAAQABAAACqGFwcGwC
+					EAAAbW50clJHQiBYWVogB+MACgANAAAAAAAA
+					YWNzcEFQUEwAAAAAQVBQTAAAAAAAAAAAAAAA
+					AAAAAAAAAPbWAAEAAAAA0y1hcHBsAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAMZGVzYwAAARQAAAB0
+					Y3BydAAAAYgAAAAjd3RwdAAAAawAAAAUclhZ
+					WgAAAcAAAAAUZ1hZWgAAAdQAAAAUYlhZWgAA
+					AegAAAAUclRSQwAAAfwAAAAOdmNndAAAAgwA
+					AAAwbmRpbgAAAjwAAAA+Y2hhZAAAAnwAAAAs
+					YlRSQwAAAfwAAAAOZ1RSQwAAAfwAAAAOZGVz
+					YwAAAAAAAAAaQ2FsaWJyYXRlZCBSR0IgQ29s
+					b3JzcGFjZQAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAB0ZXh0AAAAAENvcHlyaWdodCBBcHBs
+					ZSBJbmMuLCAyMDE5AABYWVogAAAAAAAA81EA
+					AQAAAAEWzFhZWiAAAAAAAABvoAAAOPUAAAOQ
+					WFlaIAAAAAAAAGKXAAC3hwAAGNlYWVogAAAA
+					AAAAJJ8AAA+EAAC2w2N1cnYAAAAAAAAAAQHR
+					AAB2Y2d0AAAAAAAAAAEAAQAAAAAAAAABAAAA
+					AQAAAAAAAAABAAAAAQAAAAAAAAABAABuZGlu
+					AAAAAAAAADYAAKPXAABUewAATM0AAJmaAAAm
+					ZgAAD1wAAFANAABUOQAB0XQAAdF0AAHRdAAA
+					AAAAAAAAc2YzMgAAAAAAAQxCAAAF3v//8yYA
+					AAeTAAD9kP//+6L///2jAAAD3AAAwG5bS2V5
+					IFByZXNzZWRWRmVlZGx5aABQAHIAZQBzAHMA
+					ICMYAEMjP941qkZlFCwjP/AAAAAAAADSDQ4p
+					EaMqKyyACoAUgBeAGtIvDjAxWnByb3BlcnRp
+					ZXOAC4AT0zMNDjQ4PFdOUy5rZXlzozU2N4AM
+					gA2ADqM5Oh+AD4AQgAWAEl8QG2NoYXJhY3Rl
+					cnNJZ25vcmluZ01vZGlmaWVyc1tjZ0V2ZW50
+					RGF0YVtwcm9jZXNzTmFtZVFj0kIOQ0RXTlMu
+					ZGF0YU8Q1AAAAAIAAUA1AAAAAwABQDYAAAAA
+					AAFANwAAAAoAAsA4RL2ngEJywAAAAsA5AAAA
+					AAAAAAAAAQA6YhQ6lQAAgs8AAUA7ABABCAAB
+					QDMAAAAAAAFANAAIh+8AAQCpYhQ6lQAAgs8A
+					AUBqAAAAAAABQGsAAAQaAAFACQAAAAgAAUAI
+					AAAAAAABQAoAAAAsAAFATAAAAPwAAUBNAAAA
+					YwABQE4AAABjAAFATwAAAAAAAUBQAAAACgAB
+					QFEAAAAAAAFAfwAAAAAAAUCAAAAAAAABQFIA
+					AABjgBHSRkdISVokY2xhc3NuYW1lWCRjbGFz
+					c2VzXU5TTXV0YWJsZURhdGGjSEpLVk5TRGF0
+					YVhOU09iamVjdNJGR01OXE5TRGljdGlvbmFy
+					eaJNS9JGR1BRW1VJUktleUV2ZW50o1JTS1tV
+					SVJLZXlFdmVudFhVSVJFdmVudNIvDlUxgBWA
+					E9MzDQ5YXDyjNTY3gAyADYAOozleH4APgBaA
+					BYAS0kIOYkRPENQAAAACAAFANQAAAAMAAUA2
+					AAAAAAABQDcAAAALAALAOES9p4BCcsAAAALA
+					OQAAAAAAAAAAAAEAOmjACakAAILPAAFAOwAQ
+					AQgAAUAzAAAAAAABQDQACIfvAAEAqWjACakA
+					AILPAAFAagAAAAAAAUBrAAAEGgABQAkAAAAI
+					AAFACAAAAAAAAUAKAAAALAABQEwAAAD8AAFA
+					TQAAAGMAAUBOAAAAYwABQE8AAAAAAAFAUAAA
+					AAoAAUBRAAAAAAABQH8AAAAAAAFAgAAAAAAA
+					AUBSAAAAY4AR0i8OZTGAGIAT0zMNDmhrPKI2
+					N4ANgA6ibB+AGYAFgBLSQg5wRE8Q0AAAAAIA
+					AUA1AAAAAwABQDYAAAAAAAFANwAAAAwAAsA4
+					RL2ngEJywAAAAsA5AAAAAAAAAAAAAQA6r8zO
+					ngAAgs8AAUA7AAABAAABQDMAAAAAAAFANAAI
+					h+8AAQCpr8zOngAAgs8AAUBqAAAAAAABQGsA
+					AAQaAAFACQAAADcAAUAIAAAAAAABQAoAAAAs
+					AAFATAAAAAAAAUBNAAAAAAABQE4AAAAAAAFA
+					TwAAAAAAAUBQAAAAAAABQFEAAAAAAAFAfwAA
+					AAAAAUCAAAAAAAAAQFKAEdJGR3N0V05TQXJy
+					YXmic0vSRkd2d15BTVVJUlVzZXJFdmVudKJ4
+					S15BTVVJUlVzZXJFdmVudAAIABEAGgAkACkA
+					MgA3AEkATABRAFMAcgB4AH0AiACPAJEAkwCV
+					AKYArwDDAMsA0QDdAO8A+gD8AP4BAAECAQQB
+					BgEIAQopVClgKWcpeCmBKYopjymTKZUplymZ
+					KZspoCmrKa0prym2Kb4pwinEKcYpyCnMKc4p
+					0CnSKdQp8in+KgoqDCoRKhkq8CryKvcrAisL
+					KxkrHSskKy0rMis/K0IrRytTK1crYytsK3Er
+					cyt1K3wrgCuCK4QrhiuKK4wrjiuQK5Irlyxu
+					LHAsdSx3LHksgCyDLIUshyyKLIwsjiyQLJUt
+					aC1qLW8tdy16LX8tji2RAAAAAAAAAgEAAAAA
+					AAAAeQAAAAAAAAAAAAAAAAAALaA=
+					</data>
+				</dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.Automator.WatchMeDo</string>
+				<key>CFBundleVersion</key>
+				<string>1.0.2</string>
+				<key>CanShowSelectedItemsWhenRun</key>
+				<false/>
+				<key>CanShowWhenRun</key>
+				<true/>
+				<key>Category</key>
+				<array>
+					<string>AMCategoryUtilities</string>
+				</array>
+				<key>Class Name</key>
+				<string>AMWatchMeDoAction</string>
+				<key>Disabled</key>
+				<true/>
+				<key>InputUUID</key>
+				<string>BCA8F665-5DC0-4A20-99D7-0B0770F2E9B0</string>
+				<key>Keywords</key>
+				<array>
+					<string>Events</string>
+					<string>Play</string>
+					<string>Record</string>
+				</array>
+				<key>OutputUUID</key>
+				<string>A56A8583-3C2C-4976-8D58-A64F4C092EB5</string>
+				<key>UUID</key>
+				<string>012E0392-3E32-442A-9D3D-6E1CC175BAD3</string>
+				<key>UnlocalizedApplications</key>
+				<array>
+					<string>Automator</string>
+				</array>
+				<key>arguments</key>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>default value</key>
+						<real>1000</real>
+						<key>name</key>
+						<string>timeoutCount_MAX</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>0</string>
+					</dict>
+					<key>1</key>
+					<dict>
+						<key>default value</key>
+						<real>-1</real>
+						<key>name</key>
+						<string>playbackSpeed_MIN</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>1</string>
+					</dict>
+					<key>2</key>
+					<dict>
+						<key>default value</key>
+						<true/>
+						<key>name</key>
+						<string>timeoutPerEvent</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>2</string>
+					</dict>
+					<key>3</key>
+					<dict>
+						<key>default value</key>
+						<data>
+						</data>
+						<key>name</key>
+						<string>userEvents</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>3</string>
+					</dict>
+					<key>4</key>
+					<dict>
+						<key>default value</key>
+						<real>1</real>
+						<key>name</key>
+						<string>playbackSpeed_MAX</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>4</string>
+					</dict>
+					<key>5</key>
+					<dict>
+						<key>default value</key>
+						<real>0.0</real>
+						<key>name</key>
+						<string>timeoutCount_MIN</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>5</string>
+					</dict>
+					<key>6</key>
+					<dict>
+						<key>default value</key>
+						<real>2</real>
+						<key>name</key>
+						<string>timeoutCount</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>6</string>
+					</dict>
+					<key>7</key>
+					<dict>
+						<key>default value</key>
+						<real>0.0</real>
+						<key>name</key>
+						<string>playbackSpeed</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>7</string>
+					</dict>
+					<key>8</key>
+					<dict>
+						<key>default value</key>
+						<true/>
+						<key>name</key>
+						<string>timeoutIsError</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>8</string>
+					</dict>
+				</dict>
+				<key>isViewVisible</key>
+				<false/>
+				<key>location</key>
+				<string>583.250000:164.000000</string>
+				<key>nibPath</key>
+				<string>/System/Library/Automator/Watch Me Do.action/Contents/Resources/Base.lproj/main.nib</string>
+			</dict>
+			<key>isViewVisible</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>action</key>
+			<dict>
+				<key>AMAccepts</key>
+				<dict>
+					<key>Container</key>
+					<string>List</string>
+					<key>Optional</key>
+					<true/>
+					<key>Types</key>
+					<array>
+						<string>com.apple.applescript.object</string>
+					</array>
+				</dict>
+				<key>AMActionVersion</key>
+				<string>1.0.2</string>
+				<key>AMApplication</key>
+				<array>
+					<string>Automator</string>
+				</array>
+				<key>AMParameterProperties</key>
+				<dict>
+					<key>source</key>
+					<dict/>
+				</dict>
+				<key>AMProvides</key>
+				<dict>
+					<key>Container</key>
+					<string>List</string>
+					<key>Types</key>
+					<array>
+						<string>com.apple.applescript.object</string>
+					</array>
+				</dict>
+				<key>ActionBundlePath</key>
+				<string>/System/Library/Automator/Run AppleScript.action</string>
+				<key>ActionName</key>
+				<string>Run AppleScript</string>
+				<key>ActionNameComment</key>
+				<string>copy</string>
+				<key>ActionParameters</key>
+				<dict>
+					<key>source</key>
+					<string>on run {input, parameters}	-- Press ⌘C	delay 0.992088	set timeoutSeconds to 2.0	set uiScript to "keystroke \"c\" using command down"	my doWithTimeout(uiScript, timeoutSeconds)	return inputend runon doWithTimeout(uiScript, timeoutSeconds)	set endDate to (current date) + timeoutSeconds	repeat		try			run script "tell application \"System Events\"" &amp; uiScript &amp; "end tell"			exit repeat		on error errorMessage			if ((current date) &gt; endDate) then				error "Can not " &amp; uiScript			end if		end try	end repeatend doWithTimeout</string>
+				</dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.Automator.RunScript</string>
+				<key>CFBundleVersion</key>
+				<string>1.0.2</string>
+				<key>CanShowSelectedItemsWhenRun</key>
+				<false/>
+				<key>CanShowWhenRun</key>
+				<true/>
+				<key>Category</key>
+				<array>
+					<string>AMCategoryUtilities</string>
+				</array>
+				<key>Class Name</key>
+				<string>RunScriptAction</string>
+				<key>Disabled</key>
+				<false/>
+				<key>InputUUID</key>
+				<string>4A6EBB2D-B36A-4685-872B-8BCC69FFE90F</string>
+				<key>Keywords</key>
+				<array>
+					<string>Run</string>
+				</array>
+				<key>OutputUUID</key>
+				<string>E0DBE13A-480E-4F05-B3B2-54C652E08E23</string>
+				<key>UUID</key>
+				<string>C81C45B9-2162-4683-B46A-042770217043</string>
+				<key>UnlocalizedApplications</key>
+				<array>
+					<string>Automator</string>
+				</array>
+				<key>arguments</key>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>default value</key>
+						<string>on run {input, parameters}
+	
+	(* Your script goes here *)
+	
+	return input
+end run</string>
+						<key>name</key>
+						<string>source</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>0</string>
+					</dict>
+				</dict>
+				<key>isViewVisible</key>
+				<true/>
+				<key>location</key>
+				<string>583.250000:409.000000</string>
+				<key>nibPath</key>
+				<string>/System/Library/Automator/Run AppleScript.action/Contents/Resources/Base.lproj/main.nib</string>
+			</dict>
+			<key>isViewVisible</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>action</key>
+			<dict>
+				<key>AMAccepts</key>
+				<dict>
+					<key>Container</key>
+					<string>List</string>
+					<key>Optional</key>
+					<true/>
+					<key>Types</key>
+					<array>
+						<string>com.apple.applescript.object</string>
+					</array>
+				</dict>
+				<key>AMActionVersion</key>
+				<string>1.0.2</string>
+				<key>AMApplication</key>
+				<array>
+					<string>Automator</string>
+				</array>
+				<key>AMParameterProperties</key>
+				<dict>
+					<key>source</key>
+					<dict/>
+				</dict>
+				<key>AMProvides</key>
+				<dict>
+					<key>Container</key>
+					<string>List</string>
+					<key>Types</key>
+					<array>
+						<string>com.apple.applescript.object</string>
+					</array>
+				</dict>
+				<key>ActionBundlePath</key>
+				<string>/System/Library/Automator/Run AppleScript.action</string>
+				<key>ActionName</key>
+				<string>Run AppleScript</string>
+				<key>ActionParameters</key>
+				<dict>
+					<key>source</key>
+					<string>on run {input, parameters}	-- Press ⌘C	delay 0.472025	set timeoutSeconds to 2.000000	set uiScript to "keystroke \"c\" using command down"	my doWithTimeout( uiScript, timeoutSeconds )	return inputend runon doWithTimeout(uiScript, timeoutSeconds)	set endDate to (current date) + timeoutSeconds	repeat		try			run script "tell application \"System Events\"" &amp; uiScript &amp; "end tell"			exit repeat		on error errorMessage			if ((current date) &gt; endDate) then				error "Can not " &amp; uiScript			end if		end try	end repeatend doWithTimeout</string>
+				</dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.Automator.RunScript</string>
+				<key>CFBundleVersion</key>
+				<string>1.0.2</string>
+				<key>CanShowSelectedItemsWhenRun</key>
+				<false/>
+				<key>CanShowWhenRun</key>
+				<true/>
+				<key>Category</key>
+				<array>
+					<string>AMCategoryUtilities</string>
+				</array>
+				<key>Class Name</key>
+				<string>RunScriptAction</string>
+				<key>Disabled</key>
+				<true/>
+				<key>InputUUID</key>
+				<string>12351C15-C118-433C-ACCC-AA42018F883A</string>
+				<key>Keywords</key>
+				<array>
+					<string>Run</string>
+				</array>
+				<key>OutputUUID</key>
+				<string>9FB7E133-BBCD-4D1C-9515-A585C63134B6</string>
+				<key>UUID</key>
+				<string>6A5AFEB9-D5B0-4474-A7F7-C1A95D290ADA</string>
+				<key>UnlocalizedApplications</key>
+				<array>
+					<string>Automator</string>
+				</array>
+				<key>arguments</key>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>default value</key>
+						<string>on run {input, parameters}
+	
+	(* Your script goes here *)
+	
+	return input
+end run</string>
+						<key>name</key>
+						<string>source</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>0</string>
+					</dict>
+				</dict>
+				<key>isViewVisible</key>
+				<false/>
+				<key>location</key>
+				<string>583.250000:450.000000</string>
+				<key>nibPath</key>
+				<string>/System/Library/Automator/Run AppleScript.action/Contents/Resources/Base.lproj/main.nib</string>
+			</dict>
+			<key>isViewVisible</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>action</key>
+			<dict>
+				<key>AMAccepts</key>
+				<dict>
+					<key>Container</key>
+					<string>List</string>
+					<key>Optional</key>
+					<true/>
+					<key>Types</key>
+					<array/>
+				</dict>
+				<key>AMActionVersion</key>
+				<string>1.1.1</string>
+				<key>AMApplication</key>
+				<array>
+					<string>Finder</string>
+				</array>
+				<key>AMParameterProperties</key>
+				<dict>
+					<key>appPath</key>
+					<dict>
+						<key>isPathPopUp</key>
+						<true/>
+						<key>variableUUIDsInMenu</key>
+						<array/>
+					</dict>
+				</dict>
+				<key>AMProvides</key>
+				<dict>
+					<key>Container</key>
+					<string>List</string>
+					<key>Types</key>
+					<array/>
+				</dict>
+				<key>ActionBundlePath</key>
+				<string>/System/Library/Automator/Launch Application.action</string>
+				<key>ActionName</key>
+				<string>Launch Application</string>
+				<key>ActionParameters</key>
+				<dict>
+					<key>appPath</key>
+					<string>/Applications/Spotify.app</string>
+				</dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.Automator.OpenApplication</string>
+				<key>CFBundleVersion</key>
+				<string>1.1.1</string>
+				<key>CanShowSelectedItemsWhenRun</key>
+				<true/>
+				<key>CanShowWhenRun</key>
+				<true/>
+				<key>Category</key>
+				<array>
+					<string>AMCategoryUtilities</string>
+				</array>
+				<key>Class Name</key>
+				<string>AMLaunchApplicationAction</string>
+				<key>InputUUID</key>
+				<string>DF0D0F69-3ADC-4F77-A2FC-C8E4264E431E</string>
+				<key>Keywords</key>
+				<array>
+					<string>File</string>
+					<string>Open</string>
+				</array>
+				<key>OutputUUID</key>
+				<string>71818955-8ED1-4EFE-9A2C-238BE4F7E06A</string>
+				<key>ShowWhenRun</key>
+				<false/>
+				<key>UUID</key>
+				<string>42686E09-5615-4BF3-9A3A-7B3D9AF6CAFF</string>
+				<key>UnlocalizedApplications</key>
+				<array>
+					<string>Finder</string>
+				</array>
+				<key>arguments</key>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>default value</key>
+						<string>/System/Applications/Contacts.app</string>
+						<key>name</key>
+						<string>appPath</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>0</string>
+					</dict>
+				</dict>
+				<key>isViewVisible</key>
+				<false/>
+				<key>location</key>
+				<string>583.250000:491.000000</string>
+				<key>nibPath</key>
+				<string>/System/Library/Automator/Launch Application.action/Contents/Resources/Base.lproj/main.nib</string>
+			</dict>
+			<key>isViewVisible</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>action</key>
+			<dict>
+				<key>AMAccepts</key>
+				<dict>
+					<key>Container</key>
+					<string>List</string>
+					<key>Optional</key>
+					<true/>
+					<key>Types</key>
+					<array>
+						<string>com.apple.applescript.object</string>
+					</array>
+				</dict>
+				<key>AMActionVersion</key>
+				<string>1.0.2</string>
+				<key>AMApplication</key>
+				<array>
+					<string>Automator</string>
+				</array>
+				<key>AMParameterProperties</key>
+				<dict>
+					<key>source</key>
+					<dict/>
+				</dict>
+				<key>AMProvides</key>
+				<dict>
+					<key>Container</key>
+					<string>List</string>
+					<key>Types</key>
+					<array>
+						<string>com.apple.applescript.object</string>
+					</array>
+				</dict>
+				<key>ActionBundlePath</key>
+				<string>/System/Library/Automator/Run AppleScript.action</string>
+				<key>ActionName</key>
+				<string>Run AppleScript</string>
+				<key>ActionNameComment</key>
+				<string>cursor into search</string>
+				<key>ActionParameters</key>
+				<dict>
+					<key>source</key>
+					<string>on run {input, parameters}	do shell script "/Applications/Utilities/cliclick c:500,40"	return inputend run</string>
+				</dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.Automator.RunScript</string>
+				<key>CFBundleVersion</key>
+				<string>1.0.2</string>
+				<key>CanShowSelectedItemsWhenRun</key>
+				<false/>
+				<key>CanShowWhenRun</key>
+				<true/>
+				<key>Category</key>
+				<array>
+					<string>AMCategoryUtilities</string>
+				</array>
+				<key>Class Name</key>
+				<string>RunScriptAction</string>
+				<key>Disabled</key>
+				<true/>
+				<key>InputUUID</key>
+				<string>DC81D4FE-5B8A-412F-94D1-D3F69ED4C189</string>
+				<key>Keywords</key>
+				<array>
+					<string>Run</string>
+				</array>
+				<key>OutputUUID</key>
+				<string>D9D171FE-4C04-4D94-820B-D01B27C94821</string>
+				<key>ShowWhenRun</key>
+				<false/>
+				<key>UUID</key>
+				<string>7A8E478D-2074-4209-8669-1D2ACCD16C9A</string>
+				<key>UnlocalizedApplications</key>
+				<array>
+					<string>Automator</string>
+				</array>
+				<key>arguments</key>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>default value</key>
+						<string>on run {input, parameters}
+	
+	(* Your script goes here *)
+	
+	return input
+end run</string>
+						<key>name</key>
+						<string>source</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>0</string>
+					</dict>
+				</dict>
+				<key>isViewVisible</key>
+				<false/>
+				<key>location</key>
+				<string>583.250000:532.000000</string>
+				<key>nibPath</key>
+				<string>/System/Library/Automator/Run AppleScript.action/Contents/Resources/Base.lproj/main.nib</string>
+			</dict>
+			<key>isViewVisible</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>action</key>
+			<dict>
+				<key>AMAccepts</key>
+				<dict>
+					<key>Container</key>
+					<string>List</string>
+					<key>Optional</key>
+					<true/>
+					<key>Types</key>
+					<array>
+						<string>com.apple.applescript.object</string>
+					</array>
+				</dict>
+				<key>AMActionVersion</key>
+				<string>1.0.2</string>
+				<key>AMApplication</key>
+				<array>
+					<string>Automator</string>
+				</array>
+				<key>AMParameterProperties</key>
+				<dict>
+					<key>source</key>
+					<dict/>
+				</dict>
+				<key>AMProvides</key>
+				<dict>
+					<key>Container</key>
+					<string>List</string>
+					<key>Types</key>
+					<array>
+						<string>com.apple.applescript.object</string>
+					</array>
+				</dict>
+				<key>ActionBundlePath</key>
+				<string>/System/Library/Automator/Run AppleScript.action</string>
+				<key>ActionName</key>
+				<string>Run AppleScript</string>
+				<key>ActionNameComment</key>
+				<string>select all</string>
+				<key>ActionParameters</key>
+				<dict>
+					<key>source</key>
+					<string>on run {input, parameters}	-- Press ⌘A	delay 0.992088	set timeoutSeconds to 2.0	set uiScript to "keystroke \"a\" using command down"	my doWithTimeout(uiScript, timeoutSeconds)	return inputend runon doWithTimeout(uiScript, timeoutSeconds)	set endDate to (current date) + timeoutSeconds	repeat		try			run script "tell application \"System Events\"" &amp; uiScript &amp; "end tell"			exit repeat		on error errorMessage			if ((current date) &gt; endDate) then				error "Can not " &amp; uiScript			end if		end try	end repeatend doWithTimeout</string>
+				</dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.Automator.RunScript</string>
+				<key>CFBundleVersion</key>
+				<string>1.0.2</string>
+				<key>CanShowSelectedItemsWhenRun</key>
+				<false/>
+				<key>CanShowWhenRun</key>
+				<true/>
+				<key>Category</key>
+				<array>
+					<string>AMCategoryUtilities</string>
+				</array>
+				<key>Class Name</key>
+				<string>RunScriptAction</string>
+				<key>Disabled</key>
+				<true/>
+				<key>InputUUID</key>
+				<string>4ED021CD-29FE-4B29-A50A-9AD682A82A55</string>
+				<key>Keywords</key>
+				<array>
+					<string>Run</string>
+				</array>
+				<key>OutputUUID</key>
+				<string>29AE23F2-2171-4533-89A3-A8966054E10A</string>
+				<key>UUID</key>
+				<string>2AD29692-8323-439D-BECF-A63734FF2FA1</string>
+				<key>UnlocalizedApplications</key>
+				<array>
+					<string>Automator</string>
+				</array>
+				<key>arguments</key>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>default value</key>
+						<string>on run {input, parameters}
+	
+	(* Your script goes here *)
+	
+	return input
+end run</string>
+						<key>name</key>
+						<string>source</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>0</string>
+					</dict>
+				</dict>
+				<key>isViewVisible</key>
+				<false/>
+				<key>location</key>
+				<string>583.250000:573.000000</string>
+				<key>nibPath</key>
+				<string>/System/Library/Automator/Run AppleScript.action/Contents/Resources/Base.lproj/main.nib</string>
+			</dict>
+			<key>isViewVisible</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>action</key>
+			<dict>
+				<key>AMAccepts</key>
+				<dict>
+					<key>Container</key>
+					<string>List</string>
+					<key>Optional</key>
+					<true/>
+					<key>Types</key>
+					<array>
+						<string>com.apple.applescript.object</string>
+					</array>
+				</dict>
+				<key>AMActionVersion</key>
+				<string>1.0.2</string>
+				<key>AMApplication</key>
+				<array>
+					<string>Automator</string>
+				</array>
+				<key>AMParameterProperties</key>
+				<dict>
+					<key>source</key>
+					<dict/>
+				</dict>
+				<key>AMProvides</key>
+				<dict>
+					<key>Container</key>
+					<string>List</string>
+					<key>Types</key>
+					<array>
+						<string>com.apple.applescript.object</string>
+					</array>
+				</dict>
+				<key>ActionBundlePath</key>
+				<string>/System/Library/Automator/Run AppleScript.action</string>
+				<key>ActionName</key>
+				<string>Run AppleScript</string>
+				<key>ActionNameComment</key>
+				<string>spotify search</string>
+				<key>ActionParameters</key>
+				<dict>
+					<key>source</key>
+					<string>on run {input, parameters}	-- Press ⌘L	delay 0.992088	set timeoutSeconds to 2.0	set uiScript to "keystroke \"l\" using command down"	my doWithTimeout(uiScript, timeoutSeconds)	return inputend runon doWithTimeout(uiScript, timeoutSeconds)	set endDate to (current date) + timeoutSeconds	repeat		try			run script "tell application \"System Events\"" &amp; uiScript &amp; "end tell"			exit repeat		on error errorMessage			if ((current date) &gt; endDate) then				error "Can not " &amp; uiScript			end if		end try	end repeatend doWithTimeout</string>
+				</dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.Automator.RunScript</string>
+				<key>CFBundleVersion</key>
+				<string>1.0.2</string>
+				<key>CanShowSelectedItemsWhenRun</key>
+				<false/>
+				<key>CanShowWhenRun</key>
+				<true/>
+				<key>Category</key>
+				<array>
+					<string>AMCategoryUtilities</string>
+				</array>
+				<key>Class Name</key>
+				<string>RunScriptAction</string>
+				<key>InputUUID</key>
+				<string>058A6949-011F-446B-837C-2F3B20F26E3B</string>
+				<key>Keywords</key>
+				<array>
+					<string>Run</string>
+				</array>
+				<key>OutputUUID</key>
+				<string>864784FA-B328-472D-A498-16F934FA312E</string>
+				<key>UUID</key>
+				<string>02A17E61-0195-4199-99B3-66263FB7F1AE</string>
+				<key>UnlocalizedApplications</key>
+				<array>
+					<string>Automator</string>
+				</array>
+				<key>arguments</key>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>default value</key>
+						<string>on run {input, parameters}
+	
+	(* Your script goes here *)
+	
+	return input
+end run</string>
+						<key>name</key>
+						<string>source</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>0</string>
+					</dict>
+				</dict>
+				<key>conversionLabel</key>
+				<integer>0</integer>
+				<key>isViewVisible</key>
+				<true/>
+				<key>location</key>
+				<string>583.250000:818.000000</string>
+				<key>nibPath</key>
+				<string>/System/Library/Automator/Run AppleScript.action/Contents/Resources/Base.lproj/main.nib</string>
+			</dict>
+			<key>isViewVisible</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>action</key>
+			<dict>
+				<key>AMAccepts</key>
+				<dict>
+					<key>Container</key>
+					<string>List</string>
+					<key>Optional</key>
+					<true/>
+					<key>Types</key>
+					<array>
+						<string>com.apple.applescript.object</string>
+					</array>
+				</dict>
+				<key>AMActionVersion</key>
+				<string>1.0.2</string>
+				<key>AMApplication</key>
+				<array>
+					<string>Automator</string>
+				</array>
+				<key>AMParameterProperties</key>
+				<dict>
+					<key>source</key>
+					<dict/>
+				</dict>
+				<key>AMProvides</key>
+				<dict>
+					<key>Container</key>
+					<string>List</string>
+					<key>Types</key>
+					<array>
+						<string>com.apple.applescript.object</string>
+					</array>
+				</dict>
+				<key>ActionBundlePath</key>
+				<string>/System/Library/Automator/Run AppleScript.action</string>
+				<key>ActionName</key>
+				<string>Run AppleScript</string>
+				<key>ActionNameComment</key>
+				<string>paste</string>
+				<key>ActionParameters</key>
+				<dict>
+					<key>source</key>
+					<string>on run {input, parameters}	-- Press ⌘V	delay 0.992088	set timeoutSeconds to 2.0	set uiScript to "keystroke \"v\" using command down"	my doWithTimeout(uiScript, timeoutSeconds)	return inputend runon doWithTimeout(uiScript, timeoutSeconds)	set endDate to (current date) + timeoutSeconds	repeat		try			run script "tell application \"System Events\"" &amp; uiScript &amp; "end tell"			exit repeat		on error errorMessage			if ((current date) &gt; endDate) then				error "Can not " &amp; uiScript			end if		end try	end repeatend doWithTimeout</string>
+				</dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.Automator.RunScript</string>
+				<key>CFBundleVersion</key>
+				<string>1.0.2</string>
+				<key>CanShowSelectedItemsWhenRun</key>
+				<false/>
+				<key>CanShowWhenRun</key>
+				<true/>
+				<key>Category</key>
+				<array>
+					<string>AMCategoryUtilities</string>
+				</array>
+				<key>Class Name</key>
+				<string>RunScriptAction</string>
+				<key>Disabled</key>
+				<false/>
+				<key>InputUUID</key>
+				<string>D298BE8E-4D7D-4A95-9F62-4D6E885B1A33</string>
+				<key>Keywords</key>
+				<array>
+					<string>Run</string>
+				</array>
+				<key>OutputUUID</key>
+				<string>3447ED9E-B2E9-432D-A9A3-C27FE1732600</string>
+				<key>UUID</key>
+				<string>F65843F2-C741-44DD-A4B0-A922CB708187</string>
+				<key>UnlocalizedApplications</key>
+				<array>
+					<string>Automator</string>
+				</array>
+				<key>arguments</key>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>default value</key>
+						<string>on run {input, parameters}
+	
+	(* Your script goes here *)
+	
+	return input
+end run</string>
+						<key>name</key>
+						<string>source</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>0</string>
+					</dict>
+				</dict>
+				<key>isViewVisible</key>
+				<true/>
+				<key>location</key>
+				<string>583.250000:1063.000000</string>
+				<key>nibPath</key>
+				<string>/System/Library/Automator/Run AppleScript.action/Contents/Resources/Base.lproj/main.nib</string>
+			</dict>
+			<key>isViewVisible</key>
+			<true/>
+		</dict>
+	</array>
+	<key>connectors</key>
+	<dict>
+		<key>1BA8D1EC-6B70-44B5-ABFC-3AFB60DC146F</key>
+		<dict>
+			<key>from</key>
+			<string>6A5AFEB9-D5B0-4474-A7F7-C1A95D290ADA - 6A5AFEB9-D5B0-4474-A7F7-C1A95D290ADA</string>
+			<key>to</key>
+			<string>42686E09-5615-4BF3-9A3A-7B3D9AF6CAFF - 42686E09-5615-4BF3-9A3A-7B3D9AF6CAFF</string>
+		</dict>
+		<key>25FD648C-DDDD-45AF-9160-4B1C0EA24092</key>
+		<dict>
+			<key>from</key>
+			<string>7A8E478D-2074-4209-8669-1D2ACCD16C9A - 7A8E478D-2074-4209-8669-1D2ACCD16C9A</string>
+			<key>to</key>
+			<string>2AD29692-8323-439D-BECF-A63734FF2FA1 - 2AD29692-8323-439D-BECF-A63734FF2FA1</string>
+		</dict>
+		<key>A227521F-2C62-44D5-B43D-8F6E4AB3B8AE</key>
+		<dict>
+			<key>from</key>
+			<string>C81C45B9-2162-4683-B46A-042770217043 - C81C45B9-2162-4683-B46A-042770217043</string>
+			<key>to</key>
+			<string>6A5AFEB9-D5B0-4474-A7F7-C1A95D290ADA - 6A5AFEB9-D5B0-4474-A7F7-C1A95D290ADA</string>
+		</dict>
+		<key>C5A6B1CD-4343-432D-9B77-B4C315B0D353</key>
+		<dict>
+			<key>from</key>
+			<string>012E0392-3E32-442A-9D3D-6E1CC175BAD3 - 012E0392-3E32-442A-9D3D-6E1CC175BAD3</string>
+			<key>to</key>
+			<string>C81C45B9-2162-4683-B46A-042770217043 - C81C45B9-2162-4683-B46A-042770217043</string>
+		</dict>
+		<key>D1600F70-CC29-428D-8316-DFD35848D1D2</key>
+		<dict>
+			<key>from</key>
+			<string>42686E09-5615-4BF3-9A3A-7B3D9AF6CAFF - 42686E09-5615-4BF3-9A3A-7B3D9AF6CAFF</string>
+			<key>to</key>
+			<string>7A8E478D-2074-4209-8669-1D2ACCD16C9A - 7A8E478D-2074-4209-8669-1D2ACCD16C9A</string>
+		</dict>
+		<key>E3750A9C-1773-4B79-914E-141B13383DA8</key>
+		<dict>
+			<key>from</key>
+			<string>2AD29692-8323-439D-BECF-A63734FF2FA1 - 2AD29692-8323-439D-BECF-A63734FF2FA1</string>
+			<key>to</key>
+			<string>02A17E61-0195-4199-99B3-66263FB7F1AE - 02A17E61-0195-4199-99B3-66263FB7F1AE</string>
+		</dict>
+		<key>E82147BB-5043-487B-AF26-143A8965A087</key>
+		<dict>
+			<key>from</key>
+			<string>02A17E61-0195-4199-99B3-66263FB7F1AE - 02A17E61-0195-4199-99B3-66263FB7F1AE</string>
+			<key>to</key>
+			<string>F65843F2-C741-44DD-A4B0-A922CB708187 - F65843F2-C741-44DD-A4B0-A922CB708187</string>
+		</dict>
+	</dict>
+	<key>workflowMetaData</key>
+	<dict>
+		<key>applicationBundleIDsByPath</key>
+		<dict/>
+		<key>applicationPaths</key>
+		<array/>
+		<key>backgroundColor</key>
+		<data>
+		YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9i
+		amVjdHMSAAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGqCwwXGBki
+		KCwzN1UkbnVsbNUNDg8QERITFBUWViRjbGFzc1tOU0NvbG9yTmFtZVxOU0Nv
+		bG9yU3BhY2VdTlNDYXRhbG9nTmFtZVdOU0NvbG9ygAmAAxAGgAKABFZTeXN0
+		ZW1fEBBzeXN0ZW1HcmVlbkNvbG9y1RobDxwNHR4fIBJcTlNDb21wb25lbnRz
+		VU5TUkdCXxASTlNDdXN0b21Db2xvclNwYWNlRzAgMSAwIDFPEB0wLjEzNTI5
+		NjQwNDQgMSAwLjAyNDkxODc5NDYzABABgAWACdMjJA0lJidUTlNJRFVOU0lD
+		QxAHgAaACNIpDSorV05TLmRhdGFPEQxIAAAMSExpbm8CEAAAbW50clJHQiBY
+		WVogB84AAgAJAAYAMQAAYWNzcE1TRlQAAAAASUVDIHNSR0IAAAAAAAAAAAAA
+		AAAAAPbWAAEAAAAA0y1IUCAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+		AAAAAAAAAAAAAAAAAAAAAAAAAAARY3BydAAAAVAAAAAzZGVzYwAAAYQAAABs
+		d3RwdAAAAfAAAAAUYmtwdAAAAgQAAAAUclhZWgAAAhgAAAAUZ1hZWgAAAiwA
+		AAAUYlhZWgAAAkAAAAAUZG1uZAAAAlQAAABwZG1kZAAAAsQAAACIdnVlZAAA
+		A0wAAACGdmlldwAAA9QAAAAkbHVtaQAAA/gAAAAUbWVhcwAABAwAAAAkdGVj
+		aAAABDAAAAAMclRSQwAABDwAAAgMZ1RSQwAABDwAAAgMYlRSQwAABDwAAAgM
+		dGV4dAAAAABDb3B5cmlnaHQgKGMpIDE5OTggSGV3bGV0dC1QYWNrYXJkIENv
+		bXBhbnkAAGRlc2MAAAAAAAAAEnNSR0IgSUVDNjE5NjYtMi4xAAAAAAAAAAAA
+		AAASc1JHQiBJRUM2MTk2Ni0yLjEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+		AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFhZWiAAAAAAAADzUQABAAAAARbM
+		WFlaIAAAAAAAAAAAAAAAAAAAAABYWVogAAAAAAAAb6IAADj1AAADkFhZWiAA
+		AAAAAABimQAAt4UAABjaWFlaIAAAAAAAACSgAAAPhAAAts9kZXNjAAAAAAAA
+		ABZJRUMgaHR0cDovL3d3dy5pZWMuY2gAAAAAAAAAAAAAABZJRUMgaHR0cDov
+		L3d3dy5pZWMuY2gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+		AAAAAAAAAAAAAAAAZGVzYwAAAAAAAAAuSUVDIDYxOTY2LTIuMSBEZWZhdWx0
+		IFJHQiBjb2xvdXIgc3BhY2UgLSBzUkdCAAAAAAAAAAAAAAAuSUVDIDYxOTY2
+		LTIuMSBEZWZhdWx0IFJHQiBjb2xvdXIgc3BhY2UgLSBzUkdCAAAAAAAAAAAA
+		AAAAAAAAAAAAAAAAAGRlc2MAAAAAAAAALFJlZmVyZW5jZSBWaWV3aW5nIENv
+		bmRpdGlvbiBpbiBJRUM2MTk2Ni0yLjEAAAAAAAAAAAAAACxSZWZlcmVuY2Ug
+		Vmlld2luZyBDb25kaXRpb24gaW4gSUVDNjE5NjYtMi4xAAAAAAAAAAAAAAAA
+		AAAAAAAAAAAAAAAAAAB2aWV3AAAAAAATpP4AFF8uABDPFAAD7cwABBMLAANc
+		ngAAAAFYWVogAAAAAABMCVYAUAAAAFcf521lYXMAAAAAAAAAAQAAAAAAAAAA
+		AAAAAAAAAAAAAAKPAAAAAnNpZyAAAAAAQ1JUIGN1cnYAAAAAAAAEAAAAAAUA
+		CgAPABQAGQAeACMAKAAtADIANwA7AEAARQBKAE8AVABZAF4AYwBoAG0AcgB3
+		AHwAgQCGAIsAkACVAJoAnwCkAKkArgCyALcAvADBAMYAywDQANUA2wDgAOUA
+		6wDwAPYA+wEBAQcBDQETARkBHwElASsBMgE4AT4BRQFMAVIBWQFgAWcBbgF1
+		AXwBgwGLAZIBmgGhAakBsQG5AcEByQHRAdkB4QHpAfIB+gIDAgwCFAIdAiYC
+		LwI4AkECSwJUAl0CZwJxAnoChAKOApgCogKsArYCwQLLAtUC4ALrAvUDAAML
+		AxYDIQMtAzgDQwNPA1oDZgNyA34DigOWA6IDrgO6A8cD0wPgA+wD+QQGBBME
+		IAQtBDsESARVBGMEcQR+BIwEmgSoBLYExATTBOEE8AT+BQ0FHAUrBToFSQVY
+		BWcFdwWGBZYFpgW1BcUF1QXlBfYGBgYWBicGNwZIBlkGagZ7BowGnQavBsAG
+		0QbjBvUHBwcZBysHPQdPB2EHdAeGB5kHrAe/B9IH5Qf4CAsIHwgyCEYIWghu
+		CIIIlgiqCL4I0gjnCPsJEAklCToJTwlkCXkJjwmkCboJzwnlCfsKEQonCj0K
+		VApqCoEKmAquCsUK3ArzCwsLIgs5C1ELaQuAC5gLsAvIC+EL+QwSDCoMQwxc
+		DHUMjgynDMAM2QzzDQ0NJg1ADVoNdA2ODakNww3eDfgOEw4uDkkOZA5/DpsO
+		tg7SDu4PCQ8lD0EPXg96D5YPsw/PD+wQCRAmEEMQYRB+EJsQuRDXEPURExEx
+		EU8RbRGMEaoRyRHoEgcSJhJFEmQShBKjEsMS4xMDEyMTQxNjE4MTpBPFE+UU
+		BhQnFEkUahSLFK0UzhTwFRIVNBVWFXgVmxW9FeAWAxYmFkkWbBaPFrIW1hb6
+		Fx0XQRdlF4kXrhfSF/cYGxhAGGUYihivGNUY+hkgGUUZaxmRGbcZ3RoEGioa
+		URp3Gp4axRrsGxQbOxtjG4obshvaHAIcKhxSHHscoxzMHPUdHh1HHXAdmR3D
+		HeweFh5AHmoelB6+HukfEx8+H2kflB+/H+ogFSBBIGwgmCDEIPAhHCFIIXUh
+		oSHOIfsiJyJVIoIiryLdIwojOCNmI5QjwiPwJB8kTSR8JKsk2iUJJTglaCWX
+		Jccl9yYnJlcmhya3JugnGCdJJ3onqyfcKA0oPyhxKKIo1CkGKTgpaymdKdAq
+		Aio1KmgqmyrPKwIrNitpK50r0SwFLDksbiyiLNctDC1BLXYtqy3hLhYuTC6C
+		Lrcu7i8kL1ovkS/HL/4wNTBsMKQw2zESMUoxgjG6MfIyKjJjMpsy1DMNM0Yz
+		fzO4M/E0KzRlNJ402DUTNU01hzXCNf02NzZyNq426TckN2A3nDfXOBQ4UDiM
+		OMg5BTlCOX85vDn5OjY6dDqyOu87LTtrO6o76DwnPGU8pDzjPSI9YT2hPeA+
+		ID5gPqA+4D8hP2E/oj/iQCNAZECmQOdBKUFqQaxB7kIwQnJCtUL3QzpDfUPA
+		RANER0SKRM5FEkVVRZpF3kYiRmdGq0bwRzVHe0fASAVIS0iRSNdJHUljSalJ
+		8Eo3Sn1KxEsMS1NLmkviTCpMcky6TQJNSk2TTdxOJU5uTrdPAE9JT5NP3VAn
+		UHFQu1EGUVBRm1HmUjFSfFLHUxNTX1OqU/ZUQlSPVNtVKFV1VcJWD1ZcVqlW
+		91dEV5JX4FgvWH1Yy1kaWWlZuFoHWlZaplr1W0VblVvlXDVchlzWXSddeF3J
+		XhpebF69Xw9fYV+zYAVgV2CqYPxhT2GiYfViSWKcYvBjQ2OXY+tkQGSUZOll
+		PWWSZedmPWaSZuhnPWeTZ+loP2iWaOxpQ2maafFqSGqfavdrT2una/9sV2yv
+		bQhtYG25bhJua27Ebx5veG/RcCtwhnDgcTpxlXHwcktypnMBc11zuHQUdHB0
+		zHUodYV14XY+dpt2+HdWd7N4EXhueMx5KnmJeed6RnqlewR7Y3vCfCF8gXzh
+		fUF9oX4BfmJ+wn8jf4R/5YBHgKiBCoFrgc2CMIKSgvSDV4O6hB2EgITjhUeF
+		q4YOhnKG14c7h5+IBIhpiM6JM4mZif6KZIrKizCLlov8jGOMyo0xjZiN/45m
+		js6PNo+ekAaQbpDWkT+RqJIRknqS45NNk7aUIJSKlPSVX5XJljSWn5cKl3WX
+		4JhMmLiZJJmQmfyaaJrVm0Kbr5wcnImc951kndKeQJ6unx2fi5/6oGmg2KFH
+		obaiJqKWowajdqPmpFakx6U4pammGqaLpv2nbqfgqFKoxKk3qamqHKqPqwKr
+		davprFys0K1ErbiuLa6hrxavi7AAsHWw6rFgsdayS7LCszizrrQltJy1E7WK
+		tgG2ebbwt2i34LhZuNG5SrnCuju6tbsuu6e8IbybvRW9j74KvoS+/796v/XA
+		cMDswWfB48JfwtvDWMPUxFHEzsVLxcjGRsbDx0HHv8g9yLzJOsm5yjjKt8s2
+		y7bMNcy1zTXNtc42zrbPN8+40DnQutE80b7SP9LB00TTxtRJ1MvVTtXR1lXW
+		2Ndc1+DYZNjo2WzZ8dp22vvbgNwF3IrdEN2W3hzeot8p36/gNuC94UThzOJT
+		4tvjY+Pr5HPk/OWE5g3mlucf56noMui86Ubp0Opb6uXrcOv77IbtEe2c7iju
+		tO9A78zwWPDl8XLx//KM8xnzp/Q09ML1UPXe9m32+/eK+Bn4qPk4+cf6V/rn
+		+3f8B/yY/Sn9uv5L/tz/bf//gAfSLS4vMFokY2xhc3NuYW1lWCRjbGFzc2Vz
+		XU5TTXV0YWJsZURhdGGjLzEyVk5TRGF0YVhOU09iamVjdNItLjQ1XE5TQ29s
+		b3JTcGFjZaI2MlxOU0NvbG9yU3BhY2XSLS44OVdOU0NvbG9yojgyAAgAEQAa
+		ACQAKQAyADcASQBMAFEAUwBeAGQAbwB2AIIAjwCdAKUApwCpAKsArQCvALYA
+		yQDUAOEA5wD8AQQBJAEmASgBKgExATYBPAE+AUABQgFHAU8Nmw2dDaINrQ22
+		DcQNyA3PDdgN3Q3qDe0N+g3/DgcAAAAAAAACAQAAAAAAAAA6AAAAAAAAAAAA
+		AAAAAAAOCg==
+		</data>
+		<key>backgroundColorName</key>
+		<string>systemGreenColor</string>
+		<key>inputTypeIdentifier</key>
+		<string>com.apple.Automator.text</string>
+		<key>outputTypeIdentifier</key>
+		<string>com.apple.Automator.nothing</string>
+		<key>presentationMode</key>
+		<integer>11</integer>
+		<key>processesInput</key>
+		<integer>0</integer>
+		<key>serviceInputTypeIdentifier</key>
+		<string>com.apple.Automator.text</string>
+		<key>serviceOutputTypeIdentifier</key>
+		<string>com.apple.Automator.nothing</string>
+		<key>serviceProcessesInput</key>
+		<integer>0</integer>
+		<key>systemImageName</key>
+		<string>NSActionTemplate</string>
+		<key>useAutomaticInputType</key>
+		<integer>0</integer>
+		<key>workflowTypeIdentifier</key>
+		<string>com.apple.Automator.servicesMenu</string>
+	</dict>
+</dict>
+</plist>
